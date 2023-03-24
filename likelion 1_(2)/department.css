@@ -1,0 +1,15 @@
+body{
+    background-color: #EAEAEA;
+}
+
+
+article{
+    margin: 50px auto;
+    padding: 20px auto; /*auto 역할: 가로 중앙배치 및 좌우 배열 균형있게 하는 역할*/
+}
+
+
+table{
+    margin: 50px auto;
+    padding: 20px auto;
+}

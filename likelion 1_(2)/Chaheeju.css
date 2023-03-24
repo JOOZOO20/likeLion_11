@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'KCCMurukmuruk';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCCMurukmuruk.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+
+h2{
+    font-size: 40px;
+    color: blue;
+}
+
+h3{
+    font-size: 30px;
+    color: green;
+}
+
+h4{
+    font-size: 20px;
+    color: lightgreen;
+}
+
+body{
+    text-align: center;
+    background-image: url(https://miricanvas.zendesk.com/hc/article_attachments/900002313963/_________7_.png);
+    background-size: cover;
+    font-family: 'KCCMurukmuruk';
+}
+
+
